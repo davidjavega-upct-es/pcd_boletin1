@@ -66,4 +66,3 @@ def test_movimiento_incorrecto():
     x= 2
     y= 3
     assert False == movimiento_valido(x,y,movimientos_otro_jugador)
-
